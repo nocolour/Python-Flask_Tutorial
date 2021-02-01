@@ -12,3 +12,4 @@
 
 05-Flask–URL_Building.py  http://localhost:5000/user/admin ; http://localhost:5000/user/hacker
 
+06-Flask-HTTP_methods.py  run login.html
