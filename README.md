@@ -13,3 +13,8 @@
 05-Flask–URL_Building.py  http://localhost:5000/user/admin ; http://localhost:5000/user/hacker
 
 06-Flask-HTTP_methods.py  run login.html
+
+07-Flask–html_Templates_1.py  http://localhost:5000
+
+08-Flask–html_Templates_2.py  http://localhost:5000/hello/MyName ; \templates\hello.html
+
