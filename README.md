@@ -8,5 +8,7 @@
 
 03-Flask–Variable_2.py  http://localhost:5000/blog/11 ; http://localhost:5000/rev/1.1
 
-04-Flask–Variable_3.py
+04-Flask–Variable_3.py   http://localhost:5000/python/ ;  http://localhost:5000/flask
+
+
 
