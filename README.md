@@ -22,5 +22,5 @@
 
 10-Flask–html_Templates_4.py  http://localhost:5000/result  ; \templates\result.html
 
-11-
+11-Flask–StaticFiles.py  http://localhost:5000 ; \templates\index.html ; \static\hello.js
 
