@@ -24,3 +24,6 @@
 
 11-Flask–StaticFiles.py  http://localhost:5000 ; \templates\index.html ; \static\hello.js
 
+12-Flask–SendingFormData.py  http://localhost:5000/ ; \templates\result.html & student.html
+
+13
