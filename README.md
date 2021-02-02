@@ -26,4 +26,6 @@
 
 12-Flask–SendingFormData.py  http://localhost:5000/ ; \templates\result.html & student.html
 
-13
+13-Flask–Cookies.py  http://localhost:5000/ ; \templates\userid.html & readcookie.html
+
+14-
