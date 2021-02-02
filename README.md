@@ -20,7 +20,7 @@
 
 09-Flask–html_Templates_3.py  http://localhost:5000/score/55  <= Integer number
 
-10-Flask–html_Templates_4.py  http://localhost:5000/result  ; /templates/result.html
+10-Flask–html_Templates_4.py  http://localhost:5000/result  ; \templates\result.html
 
 11-
 
