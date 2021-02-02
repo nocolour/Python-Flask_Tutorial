@@ -18,5 +18,9 @@
 
 08-Flask–html_Templates_2.py  http://localhost:5000/hello/MyName ; \templates\hello.html
 
-09-Flask–html_Templates_3.py
+09-Flask–html_Templates_3.py  http://localhost:5000/score/55  <= Integer number
+
+10-Flask–html_Templates_4.py  http://localhost:5000/result  ; /templates/result.html
+
+11-
 
