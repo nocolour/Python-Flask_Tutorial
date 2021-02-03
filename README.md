@@ -31,4 +31,6 @@
 
 14-Flask–Sessions_Login_Logout.py  http://localhost:5000/ ; \templates\base.html & index_sess.html & login_sess.html
 
-15-Flask–MessageFlashing.py
+15-Flask–MessageFlashing.py  http://localhost:5000/ ; \templates\index_mf.html & login_mf.html
+
+16-
