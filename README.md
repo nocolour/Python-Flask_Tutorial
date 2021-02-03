@@ -28,4 +28,5 @@
 
 13-Flask–Cookies.py  http://localhost:5000/ ; \templates\userid.html & readcookie.html
 
-14-
+14-Flask–Sessions_Login_Logout.py  http://localhost:5000/ ; \templates\base.html & index_sess.html & login_sess.html
+
