@@ -33,4 +33,6 @@
 
 15-Flask–MessageFlashing.py  http://localhost:5000/ ; \templates\index_mf.html & login_mf.html
 
-16-
+16-Flask–FileUploading.py  http://localhost:5000/upload ; \templates\upload.html
+
+17
