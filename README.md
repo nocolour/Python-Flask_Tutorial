@@ -38,3 +38,5 @@
 17-Flask–Mail.py  http://localhost:5000
 
 18-Flask-WTForm\formexample.py  http://localhost:5000/contact
+
+19-Flask–SQLite\CreateDB.py & Flask-FormSQLite.py  http://localhost:5000
