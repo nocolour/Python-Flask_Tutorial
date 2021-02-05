@@ -36,3 +36,5 @@
 16-Flask–FileUploading.py  http://localhost:5000/upload ; \templates\upload.html
 
 17-Flask–Mail.py  http://localhost:5000
+
+18-Flask-WTForm  \18-Flask-WTForm\formexample.py  http://localhost:5000/contact
