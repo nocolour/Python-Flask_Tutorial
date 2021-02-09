@@ -43,4 +43,4 @@
 
 20-Flask–SQLAlchemy\main.py  http://localhost:5000
 
-21-Flask–Sijax\
+21-Flask–Sijax\app.py  http://localhost:5000
