@@ -40,3 +40,5 @@
 18-Flask-WTForm\formexample.py  http://localhost:5000/contact
 
 19-Flask–SQLite\CreateDB.py & Flask-FormSQLite.py  http://localhost:5000
+
+20-Flask–SQLAlchemy\main.py  http://localhost:5000
